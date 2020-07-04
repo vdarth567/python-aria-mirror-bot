@@ -19,6 +19,9 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 # Upcoming features (TODOs):
 
 # How to deploy?
+
+https://heroku.com/deploy
+
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
 
